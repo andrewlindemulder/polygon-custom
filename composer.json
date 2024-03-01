@@ -1,16 +1,12 @@
 {
-    "name": "polygon-io/api",
-    "description": "polygon.io php client",
+    "name": "polygon-custom/api",
+    "description": "custom polygon.io php client",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Julien Prugne",
-            "email": "julien@webeleon.dev"
-        },
-        {
-            "name": "Ersin Demirtas",
-            "email": "ed5@me.com"
+            "name": "Andrew Lindemulder",
+            "email": "lindemulder.a@gmail.com"
         }
     ],
     "require": {
